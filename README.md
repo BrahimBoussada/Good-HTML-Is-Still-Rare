@@ -2,7 +2,7 @@
 
 This repository hosts a PDF reference for HTML elements, structure, and best practices.
 
-Want to understand why good HTML still matters in 2024? Check out the full discussion in this [LinkedIn article](https://www.linkedin.com)
+Want to understand why good HTML still matters in 2024? Check out the full discussion in this [LinkedIn article](https://www.linkedin.com/pulse/good-html-still-rare-brahim-boussada-1blqf)
 
 ## 📄 PDF
 
